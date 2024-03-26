@@ -1,8 +1,8 @@
 ### Olá! Eu sou Danilo Augusto
 
--👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas 3° semestre
+-👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas 4° semestre
 
--📘 Analista de automação QA Pleno - Keeggo - F1rst
+-📘 Analyst IT - Software Engineer - Santander - F1rst
 
 -📘 Cursos - Logica de programação Java / Java completo / BDD com Cucumber em Java / Testes Funcionais com Selenium WebDriver / Teste API com Rest-Assured em Java / Teste funcionais/ Automação Teste API com Postman /
 
